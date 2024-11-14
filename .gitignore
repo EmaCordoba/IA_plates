@@ -1,2 +1,8 @@
-.images
-.ipynb_checkpoints
+# Ignorar la carpeta images
+/images/
+/.ipynb_checkpoints/
+
+# Otras reglas de ejemplo
+*.pyc
+__pycache__/
+.env
